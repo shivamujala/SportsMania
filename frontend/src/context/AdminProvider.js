@@ -12,7 +12,7 @@ const AdminProvider = ({ children, currentAdmin }) => {
     setLoggedIn(false);
     navigate("/main/signin");
   };
-
+  
   return (
     <AdminContext.Provider value={{ loggedIn, setLoggedIn, logout }}>
       {children}
