@@ -17,9 +17,15 @@ const app_config = {
     { id: 5, name: "Badminton", image: "badminton.jpg", type: "solo" },
   ],
   categoryData: {
-    Cricket: [],
-    Football: [],
-    Basketball: [],
+    Cricket: [
+      
+    ],
+    Football: [
+      
+    ],
+    Basketball: [
+      
+    ],
     Tennis: [
       "Men Singles",
       "Men Doubles",
@@ -33,6 +39,24 @@ const app_config = {
       "Women Singles",
       "Women Doubles",
       "Mixed Doubles",
+    ],
+    Volleyball: [
+
+    ],
+    Kho Kho: [
+
+    ],
+    Baseball: [
+
+    ],
+    Kabaddi: [
+
+    ],
+    Hockey: [
+
+    ],
+    Archery: [
+
     ],
   },
   scoringModel: {
