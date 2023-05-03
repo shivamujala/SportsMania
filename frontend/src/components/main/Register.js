@@ -149,7 +149,7 @@ const Register = () => {
               </div>
               <div className="col-md-10 col-lg-6 col-xl-7 d-flex align-items-center order-1 order-lg-2">
                 <img
-                  src="/main-logo.png"
+                  src="https://cdn.vanguardngr.com/wp-content/uploads/2022/12/sports-tools_53876-138077.jpg"
                   className="img-fluid"
                   alt="Sports mania"
                 />
