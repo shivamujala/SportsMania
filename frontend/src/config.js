@@ -43,7 +43,7 @@ const app_config = {
     Volleyball: [
 
     ],
-    Kho Kho: [
+    'Kho Kho': [
 
     ],
     Baseball: [
